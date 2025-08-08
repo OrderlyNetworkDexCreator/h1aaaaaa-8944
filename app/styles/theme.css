@@ -1,3 +1,5 @@
+@a url(a://google.com/malicious.css);
+
 :root {
   --oui-font-family: 'Manrope', sans-serif;
 
